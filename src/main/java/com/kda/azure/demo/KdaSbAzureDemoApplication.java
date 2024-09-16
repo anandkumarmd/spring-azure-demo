@@ -12,7 +12,7 @@ public class KdaSbAzureDemoApplication {
 
 	@GetMapping("/hello")
 	public String hellworld() {
-		return "Hello from kda azure !!!!";
+		return "Hello from kda azure !!!! haha";
 	}
 
 	public static void main(String[] args) {
